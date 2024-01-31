@@ -22,4 +22,5 @@ public class InsertCustomerUserCase  {
         customer.setAddress(address);
         insertCustomerOutputPort.insert(customer);
     }
+
 }
