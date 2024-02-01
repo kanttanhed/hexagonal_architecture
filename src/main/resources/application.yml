@@ -1,0 +1,4 @@
+plinio:
+  client:
+    address:
+      url: http://localhost:8089/address
